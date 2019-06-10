@@ -3,19 +3,19 @@
   display: none;
 }
 
-#wall#wall  #tag-2 {
+#wall div#tag-2 {
   display: none;
 }
 
-#wall#wall #tag-3 {
+#wall #tag-3.slick.wicked {
   display: none;
 }
 
-#wall#wall #tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
 
-#wall#wall #tag-5 {
+div#wall div.parent #tag-5.slick {
   display: none;
 }
 
